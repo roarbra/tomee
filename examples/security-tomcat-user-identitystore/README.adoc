@@ -3,7 +3,7 @@
 :jbake-status: status=published
 = Jakarta Security with Tomcat tomcat-users.xml identity store
 
-TomEE has its own independent Jakarta Security implementation https://eclipse-ee4j.github.io/security-api/ .
+TomEE has its own independent Jakarta Security implementation.
 
 [NOTE]
 ====
@@ -131,7 +131,7 @@ If you are not using the default location, make sure to update the `server.xml` 
 
 == Running
 
-Were we to run the above Main class or Test Case we'd see output like the following:
+Were we to run the Test Case we'd see output like the following:
 
 [source,bash]
 ----
